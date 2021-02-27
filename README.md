@@ -4,6 +4,7 @@ Hash Code 2021. Given digraph of streets and fixed-pathed vehicles, optimize tra
 Compile with `g++ -std=c++17`
 
 A baseline by naively cycling with even amount of time. (Supprisingly outperforms most randomizations)
+
 ![image](https://user-images.githubusercontent.com/46303157/109381006-523f2280-789d-11eb-92a3-03c7636ff3c0.png)
 
 
